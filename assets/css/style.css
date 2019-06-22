@@ -12,6 +12,7 @@ body {
 .jumbotron  {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color:#4F576C;
+  background-color: whitesmoke;
 }
 
 .background {
@@ -66,7 +67,7 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #999;
+
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
@@ -109,7 +110,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #ffffff;
+  background: whitesmoke;
   border: 1px solid #dddddd;
 }
 
